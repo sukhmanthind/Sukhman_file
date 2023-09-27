@@ -1,4 +1,4 @@
 <p>this is the new paragraph</p>
-i am doing coding 
+i am doing coding (gitcommands)
 new projects
 hello world i am sukhman
